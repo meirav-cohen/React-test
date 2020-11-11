@@ -1,0 +1,10 @@
+.Valid{
+    color: greenyellow;
+}
+.NotValid{
+    color: indianred;
+}
+.body{
+    direction: rtl;
+    
+}
